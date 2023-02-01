@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AzcApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AzcApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(AzcApplication.class, args);
+    }
 
 }
